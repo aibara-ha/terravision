@@ -140,3 +140,6 @@ architecture.json
 result.json
 output.json
 tests/multi-module-test.json
+
+# python venv
+myenv
